@@ -1,26 +1,35 @@
-【💒官网首页】
-官网：https://emobook.cn/
 
-【👋快速开始】
-使用机器人：https://emobook.cn/usebot/
+<div align="center">
+<img src="https://emobook.cn/img/logo.png" alt="logo" width=240>
+</div>
 
-【🚀模块列表】
-基础指令：https://emobook.cn/base/
+# 介绍
 
-文案馆：https://emobook.cn/text/
+`小念同学`是一款完全公益性质的综合型QQ频道机器人。
 
-娱乐中心：https://emobook.cn/game/
+`小念同学`所有服务完全免费，并不存在商业收费的现象，您可以将小念同学拉入自己的QQ频道享受其提供的服务，但请注意您在使用的过程中需要遵循其使用条款。
 
-实用工具：https://emobook.cn/tools/
+# 文档列表
 
-表情包制作：https://emobook.cn/petpet/
+- [💒 官网首页](https://emobook.cn/)
 
-萝卜农场：https://emobook.cn/radish/
+- [👋 快速开始](https://emobook.cn/usebot/)
 
-频道管理：https://emobook.cn/admin/
+- [🚀 模块列表](https://emobook.cn/base/)
+    - [基础指令](https://emobook.cn/base/)
 
-【🍬常见问题】
-常见问题：https://emobook.cn/tips/
+    - [文案馆](https://emobook.cn/text/)
 
-【💖支持一下】
-支持一下：https://emobook.cn/support/
+    - [娱乐中心](https://emobook.cn/game/)
+
+    - [实用工具](https://emobook.cn/tools/)
+
+    - [表情包制作](https://emobook.cn/petpet/)
+
+    - [萝卜农场](https://emobook.cn/radish/)
+
+    - [频道管理](https://emobook.cn/admin/)
+
+- [🍬 常见问题](https://emobook.cn/tips/)
+
+- [💖支持一下](https://emobook.cn/support/)

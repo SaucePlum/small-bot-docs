@@ -6,8 +6,14 @@ module.exports = {
   nav, // 顶部导航栏
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: '/img/logo.png', // 导航栏logo
+  repo: 'ReadSmall/small-bot-docs', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
+  editLinks: true, // 启用编辑链接
+  docsDir: 'docs', // 编辑的文件夹
+  docsBranch: 'master', // 编辑的分支
+  editLinkText: '帮助我们改善此页面',
+  searchPlaceholder: "搜索一下",
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
@@ -31,6 +37,32 @@ module.exports = {
   pageStyle: 'line', // 页面风格，可选值：'card'卡片 | 'line' 线（未设置bodyBgImg时才生效）， 默认'card'。 说明：card时背景显示灰色衬托出卡片样式，line时背景显示纯色，并且部分模块带线条边框
   updateBar: { // 最近更新栏
     showToArticle: false, // 显示到文章页底部，默认true
+  },
+  author: {
+    // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
+    name: '小念', // 必需
+    link: 'https://github.com/ReadSmall', // 可选的
+  },
+  social: {
+    // 社交图标，显示于博主信息栏和页脚栏
+    iconfontCssFile: '//at.alicdn.com/t/c/font_3565646_ejrtev8gcms.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
+    icons: [
+      {
+        iconClass: 'icon-github',
+        title: 'GitHub',
+        link: 'https://github.com/ReadSmall',
+      },
+      {
+        iconClass: 'icon-shequ',
+        title: '官方频道',
+        link: 'https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W6qRMB&businessType=9&from=246610&biz=ka',
+      },
+      {
+        iconClass: 'icon-aixinjuanzeng',
+        title: '爱发电',
+        link: 'https://afdian.net/@nian-bot',
+      },
+    ],
   },
   footer: { // 页脚信息
     createYear: 2022, // 博客创建年份
