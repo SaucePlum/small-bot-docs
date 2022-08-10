@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 小念同学机器人官网
+heroText: 小念同学机器人
 tagline: 🚀 不仅可以帮助频道提升活跃, 更是能够带领频道走向巅峰的超级女侠!
 actionText: 👋 开始使用 →
 actionLink: /basic/
@@ -35,7 +35,7 @@ postList: none
 </style>
 
 
-## 🔮 广告合作
+<!-- ## 🔮 广告合作
 ::: cardList 3
 ```yaml
 - name: 广告位
@@ -56,7 +56,7 @@ postList: none
 ```
 :::
 
-<br/>
+<br/> -->
 
 ## ⚡️未来...
 
