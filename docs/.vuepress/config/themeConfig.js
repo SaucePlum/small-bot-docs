@@ -68,7 +68,13 @@ module.exports = {
     createYear: 2022, // 博客创建年份
     copyrightInfo:
         '小念同学 | ' +
-        '<a href="http://beian.miit.gov.cn/" target="_blank">赣ICP备2021009205号-3</a>' +
-        '| MIT License', // 博客版权信息，支持a标签
+        '| MIT License' + 
+        '<br /><div style="width:300px;margin:0 auto; padding:20px 0;">' + 
+        '<a href="http://beian.miit.gov.cn/" target="_blank">赣ICP备2021009205号-3</a><br />'+
+        '<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36082702000206" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">' +
+        '<img src="./beian.png" style="float:left;"/>' + 
+        '<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">赣公网安备 36082702000206号</p>' + 
+        '</a>' + 
+        '</div>',
   },
 }
