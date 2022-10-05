@@ -35,34 +35,23 @@ postList: none
 </style>
 
 
-<!-- ## 🔮 广告合作
-::: cardList 3
-```yaml
-- name: 广告位
-  desc: 说明
-  link: #
-  bgColor: '#CBEAFA'
-  textColor: '#fff'
-- name: 广告位
-  desc: 说明
-  link: #
-  bgColor: '#718971'
-  textColor: '#fff'
-- name: 广告位
-  desc: 说明
-  link: #
-  bgColor: '#FCDBA0'
-  textColor: '#fff'
-```
+## 🌈 成为赞助者 && 会员
+
+### 成为赞助者
+::: tip 你可以获得
+1. 小念同学官方频道赞助专属身份组
+2. 萝卜农场萝卜兑换码
 :::
 
-<br/> -->
-
-## ⚡️未来...
-
-期待 [小念同学](https://qun.qq.com/qunpro/robot/share?robot_appid=101994672) 能够为更多的频道带来便捷...
-
-届时，还希望大家多多 [:sparkling_heart:支持](/support/) 哟，持续关注吧~
+### 成为会员
+::: tip 你可以永久享受以下权益
+1. 享受会员每日专属礼包
+2. 享受会员种植收益加成Buff
+3. 享受会员打劫收益加成Buff
+4. 享受会员打劫成功率加成Buff
+5. 享受会员种植萝卜缩短时间Buff
+6. 享受会员全频道的会员权益展示
+:::
 
 <br/>
 

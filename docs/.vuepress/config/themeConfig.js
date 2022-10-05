@@ -4,7 +4,7 @@ const nav = require('./themeConfig/nav.js');
 // 主题配置
 module.exports = {
   nav, // 顶部导航栏
-  sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
+  sidebarDepth: 1, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: '/img/logo.png', // 导航栏logo
   repo: 'ReadSmall/small-bot-docs', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
@@ -67,12 +67,12 @@ module.exports = {
   footer: { // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-        '小念同学 | ' +
+        '小念同学机器人 | ' +
         '| MIT License' + 
         '<br /><div style="width:300px;margin:0 auto; padding:20px 0;">' + 
         '<a href="http://beian.miit.gov.cn/" target="_blank">赣ICP备2021009205号-3</a><br />'+
         '<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36082702000206" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">' +
-        '<img src="./beian.png" style="float:left;"/>' + 
+        '<img src="/img/beian.png" style="float:left;"/>' + 
         '<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">赣公网安备 36082702000206号</p>' + 
         '</a>' + 
         '</div>',
